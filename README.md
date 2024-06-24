@@ -12,7 +12,7 @@
   <br>
 6. The solve() function uses index.js evaluate() function to evaluate the mathematical expression.
   <br>
-Host link:- https://somalin-sahoo.github.io/CODSOFT/
+Host link:- https://somalin-sahoo.github.io/CODSOFT-Basic-Calculator/
 </div>
 <br>
 <br>
