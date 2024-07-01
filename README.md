@@ -16,4 +16,4 @@ Host link:- https://somalin-sahoo.github.io/CODSOFT-Basic-Calculator/
 </div>
 <br>
 <br>
-<img width="313" alt="calculator" src="https://github.com/Somalin-Sahoo/CODSOFT/assets/173662367/e9b9cc9c-e3fe-4353-b0c6-500d5dbb8811">
+<img width="305" alt="calculator Screenshot" src="https://github.com/Somalin-Sahoo/CODSOFT-Basic-Calculator/assets/173662367/4db7b506-c973-480b-8a37-127335f1200c">
